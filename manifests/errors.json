@@ -1,0 +1,354 @@
+{
+  "Layer-Data-Replace": {
+    "version": "0.0.5",
+    "error": "No package metadata was found for Layer-Data-Replace"
+  },
+  "Offset-Subtraction": {
+    "version": "0.0.5",
+    "error": "Error importing contributions for first-generation napari plugin 'Offset-Subtraction': No module named 'napari'"
+  },
+  "PartSeg": {
+    "version": "0.14.3",
+    "error": "Command '['/tmp/build-env-yxwcxefq/bin/python', '-Im', 'pip', 'install', '--use-pep517', '--no-warn-script-location', '-r', '/tmp/build-reqs-94rvafh8.txt']' returned non-zero exit status 1."
+  },
+  "Partial-Aligner": {
+    "version": "0.0.1",
+    "error": "No package metadata was found for Partial-Aligner"
+  },
+  "PlatyMatch": {
+    "version": "0.0.3",
+    "error": "Error importing contributions for first-generation napari plugin 'PlatyMatch': No module named 'skimage.filters'"
+  },
+  "beetlesafari": {
+    "version": "0.4.0",
+    "error": "Error importing contributions for first-generation napari plugin 'beetlesafari': No module named 'skimage.measure'"
+  },
+  "brainreg-segment": {
+    "version": "0.2.16",
+    "error": "No package metadata was found for brainreg-segment"
+  },
+  "devbio-napari": {
+    "version": "0.7.1",
+    "error": "Command '['/tmp/build-env-tv77ple3/bin/python', '-Im', 'pip', 'install', '--use-pep517', '--no-warn-script-location', '-r', '/tmp/build-reqs-kb_lwut7.txt']' returned non-zero exit status 1."
+  },
+  "elastix-napari": {
+    "version": "0.1.7",
+    "error": "Command '['/tmp/build-env-hx4gs4dc/bin/python', '-Im', 'pip', 'install', '--use-pep517', '--no-warn-script-location', '-r', '/tmp/build-reqs-ixxvk0r7.txt']' returned non-zero exit status 1."
+  },
+  "grabber-ift": {
+    "version": "0.2.2",
+    "error": "Command '['/tmp/build-env-f88zro5l/bin/python', '-Im', 'pip', 'install', '--use-pep517', '--no-warn-script-location', '-r', '/tmp/build-reqs-5awebpz7.txt']' returned non-zero exit status 1."
+  },
+  "iacs-ipac-reader": {
+    "version": "0.0.13",
+    "error": "Error importing contributions for first-generation napari plugin 'iacs-ipac-reader': cannot import name 'QtGui' from 'PyQt5' (/tmp/build-env-app28ufy/lib/python3.10/site-packages/PyQt5/__init__.py)"
+  },
+  "misic-napari": {
+    "version": "0.2.2",
+    "error": "No package metadata was found for misic-napari"
+  },
+  "napari-3d-ortho-viewer": {
+    "version": "0.0.1",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-3d-ortho-viewer': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-DeepSpot": {
+    "version": "0.0.7",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-DeepSpot': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-J": {
+    "version": "0.2.2",
+    "error": "No package metadata was found for napari-J"
+  },
+  "napari-PHILOW": {
+    "version": "0.0.1",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-PHILOW': No module named 'PIL.PngImagePlugin'"
+  },
+  "napari-accelerated-pixel-and-object-classification": {
+    "version": "0.10.1",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-accelerated-pixel-and-object-classification': No module named 'skimage.measure'"
+  },
+  "napari-allencell-annotator": {
+    "version": "1.0.7",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-allencell-annotator': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-allencell-segmenter": {
+    "version": "2.1.3",
+    "error": "Command '['/tmp/build-env-d_3ad_v_/bin/python', '-Im', 'pip', 'install', '--use-pep517', '--no-warn-script-location', '-r', '/tmp/build-reqs-0jmde79p.txt']' returned non-zero exit status 1."
+  },
+  "napari-animated-gif-io": {
+    "version": "0.1.2",
+    "error": "No package metadata was found for napari-animated-gif-io"
+  },
+  "napari-animation": {
+    "version": "0.0.2",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-animation': No module named 'napari.viewer'"
+  },
+  "napari-apr-viewer": {
+    "version": "1.0.0",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-apr-viewer': No module named 'PyQt5.QtGui'"
+  },
+  "napari-assistant": {
+    "version": "0.3.16",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-assistant': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-bigwarp": {
+    "version": "0.0.1",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-bigwarp': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-bil-data-viewer": {
+    "version": "0.1.2",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-bil-data-viewer': No module named 'skimage.io'"
+  },
+  "napari-brightness-contrast": {
+    "version": "0.1.8",
+    "error": "No package metadata was found for napari-brightness-contrast"
+  },
+  "napari-brushsettings": {
+    "version": "0.0.2",
+    "error": "No package metadata was found for napari-brushsettings"
+  },
+  "napari-btrack-reader": {
+    "version": "0.1.0",
+    "error": "No package metadata was found for napari-btrack-reader"
+  },
+  "napari-checkerboard": {
+    "version": "0.0.3",
+    "error": "Command '['/tmp/build-env-p886vic6/bin/python', '-Im', 'pip', 'install', '--use-pep517', '--no-warn-script-location', '-r', '/tmp/build-reqs-b5noabsu.txt']' returned non-zero exit status 1."
+  },
+  "napari-clemreg": {
+    "version": "0.0.1a4",
+    "error": "Command '['/tmp/build-env-kt56jsyb/bin/python', '-Im', 'pip', 'install', '--use-pep517', '--no-warn-script-location', '-r', '/tmp/build-reqs-66s7zjum.txt']' returned non-zero exit status 1."
+  },
+  "napari-clusters-plotter": {
+    "version": "0.5.2",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-clusters-plotter': No module named 'napari.qt'"
+  },
+  "napari-console": {
+    "version": "0.0.6",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-console': No module named 'PyQt5.QtGui'"
+  },
+  "napari-crop": {
+    "version": "0.1.6",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-crop': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-cryofibsem-monitor": {
+    "version": "0.0.1",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-cryofibsem-monitor': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-cupy-image-processing": {
+    "version": "0.3.1",
+    "error": "Command '['/tmp/build-env-ui44ewn2/bin/python', '-Im', 'pip', 'install', '--use-pep517', '--no-warn-script-location', '-r', '/tmp/build-reqs-y4fqzj66.txt']' returned non-zero exit status 1."
+  },
+  "napari-curtain": {
+    "version": "0.1.1",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-curtain': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-dvid": {
+    "version": "0.2.0",
+    "error": "No package metadata was found for napari-dvid"
+  },
+  "napari-elementary-numpy-operations": {
+    "version": "0.0.5",
+    "error": "No package metadata was found for napari-elementary-numpy-operations"
+  },
+  "napari-features": {
+    "version": "0.1.4",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-features': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-folder-browser": {
+    "version": "0.1.3",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-folder-browser': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-hdf5-labels-io": {
+    "version": "0.3.dev16",
+    "error": "Command '['/tmp/build-env-mdv91mcj/bin/python', '-Im', 'pip', 'install', '--use-pep517', '--no-warn-script-location', '-r', '/tmp/build-reqs-p528gktu.txt']' returned non-zero exit status 1."
+  },
+  "napari-image-stacker": {
+    "version": "0.1.10",
+    "error": "No package metadata was found for napari-image-stacker"
+  },
+  "napari-imaris-loader": {
+    "version": "0.1.8",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-imaris-loader': No module named 'skimage.io'"
+  },
+  "napari-kics": {
+    "version": "0.0.3rc6",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-kics': Failed to convert napari_experimental_provide_dock_widget in 'napari-kics': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-labelimg4classification": {
+    "version": "0.1.1",
+    "error": "No package metadata was found for napari-labelimg4classification"
+  },
+  "napari-labelling-assistant": {
+    "version": "0.0.5",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-labelling-assistant': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-layer-details-display": {
+    "version": "0.1.4",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-layer-details-display': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-lazy-openslide": {
+    "version": "0.3.0",
+    "error": "No package metadata was found for napari-lazy-openslide"
+  },
+  "napari-mat-images": {
+    "version": "0.1.3",
+    "error": "No package metadata was found for napari-mat-images"
+  },
+  "napari-medical-image-formats": {
+    "version": "0.3.8",
+    "error": "Command '['/tmp/build-env-timbz9bg/bin/python', '-Im', 'pip', 'install', '--use-pep517', '--no-warn-script-location', '-r', '/tmp/build-reqs-b3rbtr19.txt']' returned non-zero exit status 1."
+  },
+  "napari-microscope": {
+    "version": "0.0.3",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-microscope': No module named 'PyQt5.QtGui'"
+  },
+  "napari-mouse-controls": {
+    "version": "0.1.3",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-mouse-controls': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-mrcfile-handler": {
+    "version": "0.0.6",
+    "error": "No package metadata was found for napari-mrcfile-handler"
+  },
+  "napari-mri": {
+    "version": "0.1.0",
+    "error": "No package metadata was found for napari-mri"
+  },
+  "napari-multitask": {
+    "version": "0.0.2",
+    "error": "No package metadata was found for napari-multitask"
+  },
+  "napari-nd-cropper": {
+    "version": "0.1.3",
+    "error": "No package metadata was found for napari-nd-cropper"
+  },
+  "napari-plot": {
+    "version": "0.1.5",
+    "error": "No package metadata was found for napari-plot"
+  },
+  "napari-plot-profile": {
+    "version": "0.2.2",
+    "error": "No package metadata was found for napari-plot-profile"
+  },
+  "napari-plugin-search": {
+    "version": "0.1.3",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-plugin-search': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-process-points-and-surfaces": {
+    "version": "0.3.2",
+    "error": "Command '['/tmp/build-env-enmilgl4/bin/python', '-Im', 'pip', 'install', '--use-pep517', '--no-warn-script-location', '-r', '/tmp/build-reqs-w876vh4c.txt']' returned non-zero exit status 1."
+  },
+  "napari-properties-plotter": {
+    "version": "0.2.2",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-properties-plotter': cannot import name 'palette' from 'pyqtgraph.colors' (/tmp/build-env-21ngcy6r/lib/python3.10/site-packages/pyqtgraph/colors/__init__.py)"
+  },
+  "napari-properties-viewer": {
+    "version": "0.0.2",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-properties-viewer': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-pyclesperanto-assistant": {
+    "version": "0.20.0",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-pyclesperanto-assistant': No module named 'skimage.measure'"
+  },
+  "napari-script-editor": {
+    "version": "0.2.9",
+    "error": "No package metadata was found for napari-script-editor"
+  },
+  "napari-segment-blobs-and-things-with-membranes": {
+    "version": "0.3.3",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-segment-blobs-and-things-with-membranes': No module named 'skimage.filters'"
+  },
+  "napari-simpleitk-image-processing": {
+    "version": "0.4.4",
+    "error": "No package metadata was found for napari-simpleitk-image-processing"
+  },
+  "napari-skimage-regionprops": {
+    "version": "0.5.4",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-skimage-regionprops': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-spatial-omics": {
+    "version": "0.0.8",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-spatial-omics': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-stracking": {
+    "version": "0.1.9",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-stracking': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-subboxer": {
+    "version": "0.0.1",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-subboxer': No module named 'napari.viewer'"
+  },
+  "napari-tabu": {
+    "version": "0.1.5",
+    "error": "No package metadata was found for napari-tabu"
+  },
+  "napari-text-layer": {
+    "version": "0.1.2",
+    "error": "No package metadata was found for napari-text-layer"
+  },
+  "napari-tiler": {
+    "version": "0.0.9",
+    "error": "No package metadata was found for napari-tiler"
+  },
+  "napari-time-slicer": {
+    "version": "0.4.9",
+    "error": "No package metadata was found for napari-time-slicer"
+  },
+  "napari-timeseries-opener-plugin": {
+    "version": "0.1.8",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-timeseries-opener-plugin': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-tomoslice": {
+    "version": "0.0.7",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-tomoslice': No module named 'napari.viewer'"
+  },
+  "napari-workflow-inspector": {
+    "version": "0.2.2",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-workflow-inspector': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-workflow-optimizer": {
+    "version": "0.1.4",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-workflow-optimizer': No module named 'napari.viewer'"
+  },
+  "napari-yapic-prediction": {
+    "version": "0.2.0",
+    "error": "No package metadata was found for napari-yapic-prediction"
+  },
+  "napari-yolov5": {
+    "version": "0.2.12",
+    "error": "Error importing contributions for first-generation napari plugin 'napari-yolov5': No module named 'PyQt5.QtWidgets'"
+  },
+  "napari-zelda": {
+    "version": "0.1.10",
+    "error": "Command '['/tmp/build-env-lw0fse_u/bin/python', '-Im', 'pip', 'install', '--use-pep517', '--no-warn-script-location', '-r', '/tmp/build-reqs-qn1tp1bv.txt']' returned non-zero exit status 1."
+  },
+  "natari": {
+    "version": "0.2.7",
+    "error": "Error importing contributions for first-generation napari plugin 'natari': No module named 'napari._qt'"
+  },
+  "nfinder": {
+    "version": "0.3",
+    "error": "No package metadata was found for nfinder"
+  },
+  "platelet-unet-watershed": {
+    "version": "0.0.3",
+    "error": "Error importing contributions for first-generation napari plugin 'platelet-unet-watershed': No module named 'napari.qt'"
+  },
+  "skeleton-finder": {
+    "version": "0.0.2",
+    "error": "File not found: /tmp/tmp0zpei0wl/skeleton_finder/napari.yaml"
+  },
+  "the-segmentation-game": {
+    "version": "0.2.0",
+    "error": "Error importing contributions for first-generation napari plugin 'the-segmentation-game': No module named 'PyQt5.QtWidgets'"
+  },
+  "vessel-express-napari": {
+    "version": "0.0.8",
+    "error": "Command '['/tmp/build-env-rkqycbay/bin/python', '-Im', 'pip', 'install', '--use-pep517', '--no-warn-script-location', '-r', '/tmp/build-reqs-8kntghq6.txt']' returned non-zero exit status 1."
+  },
+  "zarpaint": {
+    "version": "0.2.0",
+    "error": "No package metadata was found for zarpaint"
+  }
+}
